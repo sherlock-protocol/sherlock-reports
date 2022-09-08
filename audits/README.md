@@ -1,7 +1,7 @@
 ![auditarchives](https://user-images.githubusercontent.com/48841281/189038406-be97b3f3-4e2e-48c7-a434-3e06328820aa.png)
 
 <p align="center">
-  Protocol team? Request an <a href="https://forms.gle/HgoVZzSVkKyfrprV9">audit</a> <br> Auditor? Join a
+  Protocol team? Request an <a href="https://forms.gle/HgoVZzSVkKyfrprV9">audit</a>. <br> Auditor? Join a
   <a href="https://app.sherlock.xyz/audits">contest</a>.
 </p>
 
@@ -20,4 +20,20 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Report Link | Lead Senior Watson |
 |---------------|------|-------------|--------------------|
+| [Notional](https://www.notional.finance/)|September 2022    |Forthcoming   |[Rayn (GimelSec)](https://twitter.com/rayn731) |
+| [Sentiment](https://www.sentiment.xyz/)|September 2022    |Forthcoming   |[WatchPug](https://twitter.com/WatchPug_) |
 | [Element Finance](https://www.element.fi/)|August 2022    |Forthcoming   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
+| [FIAT DAO](https://fiatdao.com/)|August 2022    |Forthcoming   |[WatchPug](https://twitter.com/WatchPug_) <br>[Rayn (GimelSec)](https://twitter.com/rayn731) |
+| [Euler](https://www.euler.finance/)|July 2022    |Forthcoming   |[WatchPug](https://twitter.com/WatchPug_) |
+| [Opyn](https://www.opyn.co/)|July 2022    |Forthcoming   |[shw](https://twitter.com/shw9453) <br>[Rayn (GimelSec)](https://twitter.com/rayn731) |
+| [Hook](https://www.hook.xyz/)|July 2022    |Forthcoming   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[WatchPug](https://twitter.com/WatchPug_) |
+| [Merit Circle](https://meritcircle.io/)|June 2022    |Forthcoming   |[shw](https://twitter.com/shw9453) <br> IllIllI <br> [Rayn (GimelSec)](https://twitter.com/rayn731) |
+| [Flux](https://www.fluxprotocol.org/)|June 2022    |Forthcoming   |[WatchPug](https://twitter.com/WatchPug_) |
+| [Perennial](https://www.perennial.finance/)|June 2022    |Forthcoming   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[WatchPug](https://twitter.com/WatchPug_) |
+| [NiftyApes](https://www.niftyapes.money/)|June 2022    |Forthcoming   |[Gerard Persoon](https://twitter.com/gpersoon) |
+| [LiquiFi](https://www.liquifi.finance/)|May 2022    |Forthcoming   |[Chris Michel](https://twitter.com/cmichelio) <br>[shw](https://twitter.com/shw9453) |
+| [Lyra](https://www.lyra.finance/)|May 2022    |Forthcoming   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
+| [Tempus](https://tempus.finance/)|April 2022    |Forthcoming   |[Paulius Švagždys](https://twitter.com/SolidityDev) |
+| [Opyn](https://www.opyn.co/)|January 2022    |Forthcoming   |[Chris Michel](https://twitter.com/cmichelio) <br>[shw](https://twitter.com/shw9453) [Gerard Persoon](https://twitter.com/gpersoon) [Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
+| [Euler](https://www.euler.finance/)|December 2021    |Forthcoming   |[Chris Michel](https://twitter.com/cmichelio)|
+| [Primitive](https://primitive.finance/)|November 2021    |Forthcoming   |[shw](https://twitter.com/shw9453) |
