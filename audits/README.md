@@ -34,6 +34,6 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 | [LiquiFi](https://www.liquifi.finance/)|May 2022    |Forthcoming   |[Chris Michel](https://twitter.com/cmichelio) <br>[shw](https://twitter.com/shw9453) |
 | [Lyra](https://www.lyra.finance/)|May 2022    |Forthcoming   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
 | [Tempus](https://tempus.finance/)|April 2022    |Forthcoming   |[Paulius Švagždys](https://twitter.com/SolidityDev) |
-| [Opyn](https://www.opyn.co/)|January 2022    |Forthcoming   |[Chris Michel](https://twitter.com/cmichelio) <br>[shw](https://twitter.com/shw9453) [Gerard Persoon](https://twitter.com/gpersoon) [Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
+| [Opyn](https://www.opyn.co/)|January 2022    |Forthcoming   |[Chris Michel](https://twitter.com/cmichelio) <br> [shw](https://twitter.com/shw9453) <br> [Gerard Persoon](https://twitter.com/gpersoon) <br> [Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
 | [Euler](https://www.euler.finance/)|December 2021    |Forthcoming   |[Chris Michel](https://twitter.com/cmichelio)|
 | [Primitive](https://primitive.finance/)|November 2021    |Forthcoming   |[shw](https://twitter.com/shw9453) |
