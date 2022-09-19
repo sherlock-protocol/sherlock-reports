@@ -28,7 +28,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 | [Opyn](https://www.opyn.co/)|July 2022    |[📎](audits/reports/2022.07.05%20-%20Final%20-%20Opyn%20Squeeth%20Crab%20V2%20Audit%20Report.pdf)   |   |[shw](https://twitter.com/shw9453) <br>[Rayn (GimelSec)](https://twitter.com/rayn731) |
 | [Hook](https://www.hook.xyz/)|July 2022    | [📎](audits/reports/2022.06.30%20-%20Final%20-%20Hook%20Audit%20Report.pdf) |[📎](coverage-agreements/Hook%20Protocol%20Coverage%20Agreement.pdf)   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[WatchPug](https://twitter.com/WatchPug_) |
 | [Merit Circle](https://meritcircle.io/)|June 2022    |   |   |[shw](https://twitter.com/shw9453) <br> [IllIllI](https://sherlock.xyz/) <br> [Rayn (GimelSec)](https://twitter.com/rayn731) |
-| [Flux](https://www.fluxprotocol.org/)|June 2022    |[📎](audits/reports/2022.06.18%20-%20Final%20-%20Flux%20Follow-Up%20Audit%20Report.pdf) |   |   |[HickupHH3](https://twitter.com/HickupH) |
+| [Flux](https://www.fluxprotocol.org/)|June 2022    |[📎](audits/reports/2022.06.18%20-%20Final%20-%20Flux%20Follow-Up%20Audit%20Report.pdf) |   |[HickupHH3](https://twitter.com/HickupH) |
 | [Perennial](https://www.perennial.finance/)|June 2022    |   |   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[WatchPug](https://twitter.com/WatchPug_) |
 | [NiftyApes](https://www.niftyapes.money/)|June 2022    |   |   |[Gerard Persoon](https://twitter.com/gpersoon) |
 | [Flux](https://www.fluxprotocol.org/)|June 2022    |[📎](audits/reports/2022.06.06%20-%20Final%20-%20Flux%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
