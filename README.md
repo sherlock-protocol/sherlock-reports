@@ -23,7 +23,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 | [Merit Circle](https://meritcircle.io/)|November 2022    | [📎](audits/2022.11.04%20-%20Final%20-%20Merit%20Circle%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
 | [Harpie](https://harpie.io/)|October 2022    | [📎](audits/2022.10.12%20-%20Final%20-%20Harpie%20Audit%20Report.pdf) |   |[leastwood](https://twitter.com/0xleastwood) |
 | [Notional](https://www.notional.finance/)|September 2022    |   |   |[Rayn (GimelSec)](https://twitter.com/rayn731) |
-| [Sentiment](https://www.sentiment.xyz/)|September 2022    |   |   |[WatchPug](https://twitter.com/WatchPug_) |
+| [Sentiment](https://www.sentiment.xyz/)|September 2022    | [📎](audits/2022.10.18%20-%20Final%20-%20Sentiment%20Audit%20Report.pdf)  | [📎](coverage-agreements/Sentiment%20Coverage%20Agreement%20(Revised%202022.10.26).pdf |[WatchPug](https://twitter.com/WatchPug_) |
 | [Element Finance](https://www.element.fi/)|August 2022    |   |   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
 | [FIAT DAO](https://fiatdao.com/)|August 2022    |   |   |[WatchPug](https://twitter.com/WatchPug_) <br>[Rayn (GimelSec)](https://twitter.com/rayn731) |
 | [Euler](https://www.euler.finance/)|July 2022    |   |   |[WatchPug](https://twitter.com/WatchPug_) |
@@ -35,8 +35,8 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 | [NiftyApes](https://www.niftyapes.money/)|June 2022    |   |   |[Gerard Persoon](https://twitter.com/gpersoon) |
 | [Flux](https://www.fluxprotocol.org/)|June 2022    |[📎](audits/2022.06.06%20-%20Final%20-%20Flux%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
 | [LiquiFi](https://www.liquifi.finance/)|May 2022    |[📎](audits/2022.08.24%20-%20Final%20-%20LiquiFi%20Audit%20Report.pdf)   |[📎](coverage-agreements/Lyra%20Coverage%20Agreement.pdf)   |[Chris Michel](https://twitter.com/cmichelio) <br>[shw](https://twitter.com/shw9453) |
-| [Lyra](https://www.lyra.finance/)|May 2022    |[📎](audits/2022.06.27%20-%20Final%20-%20Lyra%20Audit%20Report.pdf) |[📎](coverage-agreements/Lyra%20Coverage%20Agreement.pdf)   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
+| [Lyra](https://www.lyra.finance/)|May 2022    |[📎](audits/2022.06.27%20-%20Final%20-%20Lyra%20Audit%20Report.pdf) |[📎](coverage-agreements/Lyra%20Coverage%20Agreement%20(Revised%2019.10.2022).pdf)   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
 | [Tempus](https://tempus.finance/)|April 2022    | [📎](audits/2022.02.09%20-%20Final%20-%20Tempus%20Audit%20Report.pdf) |   |[Paulius Švagždys](https://twitter.com/SolidityDev) |
-| [Opyn](https://www.opyn.co/)|January 2022    |   |[📎](coverage-agreements/Opyn%20Squeeth%20Coverage%20Agreement.pdf)   |[Chris Michel](https://twitter.com/cmichelio) <br> [shw](https://twitter.com/shw9453) <br> [Gerard Persoon](https://twitter.com/gpersoon) <br> [Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
-| [Euler](https://www.euler.finance/)|December 2021    |   |[📎](coverage-agreements/Euler%20Coverage%20Agreement.pdf)   |[Chris Michel](https://twitter.com/cmichelio)|
+| [Opyn](https://www.opyn.co/)|January 2022    |   |[📎](coverage-agreements/Opyn%20Squeeth%20Coverage%20Agreement%20(Revised%2019.10.2022).pdf)   |[Chris Michel](https://twitter.com/cmichelio) <br> [shw](https://twitter.com/shw9453) <br> [Gerard Persoon](https://twitter.com/gpersoon) <br> [Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
+| [Euler](https://www.euler.finance/)|December 2021    |   |[📎](coverage-agreements/Euler%20Coverage%20Agreement%20(Revised%2019.10.2022).pdf)   |[Chris Michel](https://twitter.com/cmichelio)|
 | [Primitive](https://primitive.finance/)|November 2021    |   |   |[shw](https://twitter.com/shw9453) |
