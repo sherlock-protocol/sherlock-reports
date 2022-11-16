@@ -21,6 +21,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 | Protocol Team | Date | Report Link | Coverage Agreement Link | Lead Senior Watson |
 |---------------|------|-------------|-------------------------|--------------------|
 | [Merit Circle](https://meritcircle.io/)|November 2022    | [📎](audits/2022.11.04%20-%20Final%20-%20Merit%20Circle%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
+| [NFTPort](https://www.nftport.xyz/)|October 2022    | [📎](audits/2022.11.16%20-%20Final%20-%20NFTPort%20Audit%20Report.pdf) |   |[GimelSec](https://twitter.com/rayn731) |
 | [Harpie](https://harpie.io/)|October 2022    | [📎](audits/2022.10.12%20-%20Final%20-%20Harpie%20Audit%20Report.pdf) |   |[leastwood](https://twitter.com/0xleastwood) |
 | [Notional](https://www.notional.finance/)|September 2022    |   |   |[Rayn (GimelSec)](https://twitter.com/rayn731) |
 | [Sentiment](https://www.sentiment.xyz/)|September 2022    | [📎](audits/2022.10.18%20-%20Final%20-%20Sentiment%20Audit%20Report.pdf)  | [📎](coverage-agreements/Sentiment%20Coverage%20Agreement%20(Revised%202022.10.26).pdf) |[WatchPug](https://twitter.com/WatchPug_) |
