@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Report Link | Coverage Agreement Link | Lead Senior Watson |
 |---------------|------|-------------|-------------------------|--------------------|
+| [FrankenDAO](https://www.3dfrankenpunks.com/)|December 2022    | [📎](audits/2022.12.01%20-%20Final%20-%20Frankendao%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
 | [Bond Protocol](https://bondprotocol.finance/)|November 2022    | [📎](audits/2022.11.29%20-%20Final%20-%20Bond%20Protocol%20Audit%20Report.pdf) |   |[xiaoming90](https://github.com/xiaoming9090) |
 | [Rage Trade](https://www.rage.trade/)|November 2022    | [📎](audits/2022.11.28%20-%20Final%20-%20Rage%20Trade%20Audit%20Report.pdf) |   |[0x52](https://www.sherlock.xyz/) |
 | [Mover](https://viamover.com/)|November 2022    | [📎](audits/2022.11.22%20-%20Final%20-%20Mover%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
