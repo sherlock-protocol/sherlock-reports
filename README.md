@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Report Link | Coverage Agreement Link | Lead Senior Watson |
 |---------------|------|-------------|-------------------------|--------------------|
+| [Perennial](https://www.perennial.finance/)|November 2022    | [📎](audits/2022.12.02%20-%20Final%20-%20Perennial%20November%20Update%20Audit%20Report.pdf)  |   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[WatchPug](https://twitter.com/WatchPug_) |
 | [FrankenDAO](https://www.3dfrankenpunks.com/)|December 2022    | [📎](audits/2022.12.01%20-%20Final%20-%20Frankendao%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
 | [Bond Protocol](https://bondprotocol.finance/)|November 2022    | [📎](audits/2022.11.29%20-%20Final%20-%20Bond%20Protocol%20Audit%20Report.pdf) |   |[xiaoming90](https://github.com/xiaoming9090) |
 | [Rage Trade](https://www.rage.trade/)|November 2022    | [📎](audits/2022.11.28%20-%20Final%20-%20Rage%20Trade%20Audit%20Report.pdf) |   |[0x52](https://www.sherlock.xyz/) |
@@ -30,6 +31,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 | [Harpie](https://harpie.io/)|October 2022    | [📎](audits/2022.10.12%20-%20Final%20-%20Harpie%20Audit%20Report.pdf) |   |[leastwood](https://twitter.com/0xleastwood) |
 | [Notional](https://www.notional.finance/)|September 2022    |   |   |[Rayn (GimelSec)](https://twitter.com/rayn731) |
 | [Sentiment](https://www.sentiment.xyz/)|September 2022    | [📎](audits/2022.10.18%20-%20Final%20-%20Sentiment%20Audit%20Report.pdf)  | [📎](coverage-agreements/Sentiment%20Coverage%20Agreement%20(Revised%202022.10.26).pdf) |[WatchPug](https://twitter.com/WatchPug_) |
+| [Perennial](https://www.perennial.finance/)|August 2022    | [📎](audits/2022.08.24%20-%20Final%20-%20Perennial%20Audit%20Report.pdf)  |   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[WatchPug](https://twitter.com/WatchPug_) |
 | [Element Finance](https://www.element.fi/)|August 2022    |   |   |[Rajeev Gopalakrishna](https://twitter.com/0xRajeev) <br>[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
 | [FIAT DAO](https://fiatdao.com/)|August 2022    |   |   |[WatchPug](https://twitter.com/WatchPug_) <br>[Rayn (GimelSec)](https://twitter.com/rayn731) |
 | [Euler](https://www.euler.finance/)|July 2022    |   |   |[WatchPug](https://twitter.com/WatchPug_) |
