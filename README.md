@@ -18,9 +18,9 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 ## Previous Engagements
 *All links to reports are provided with the permission of each protocol team.*
 
-| Protocol Team | Date | Report Link | Coverage Agreement Link | Lead Senior Watson |
-|---------------|------|-------------|-------------------------|--------------------|
-| [Opyn](https://www.opyn.co/)|December 2022    |[📎](audits/2022.12.09%20-%20Final%20-%20Opyn%20Squeeth%20Crab%20Netting%20Audit%20Report.pdf)   | [📎](coverage-agreements/Opyn%20Squeeth%20Coverage%20Agreement%20(Revised%202022.12.15).pdf)  |[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
+| Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
+|---------------|------|--------------|--------------------|--------------------|
+| [Opyn](https://www.opyn.co/)|December 2022    |[📎](audits/2022.12.09%20-%20Final%20-%20Opyn%20Crab%20Netting%20Audit%20Report.pdf)   | [📎](coverage-agreements/Opyn%20Squeeth%20Coverage%20Agreement%20(Revised%202022.12.15).pdf)  |[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
 | [FrankenDAO](https://www.3dfrankenpunks.com/)|December 2022    | [📎](audits/2022.12.01%20-%20Final%20-%20Frankendao%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
 | [BullvBear](https://bullvbear.xyz/)|November 2022    | [📎](audits/2022.12.12%20-%20Final%20-%20BullvBear%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
 | [DODO](https://dodoex.io/)|November 2022    | [📎](audits/2022.12.12%20-%20Final%20-%20DODO%20Audit%20Report.pdf) |   |[ak1](https://twitter.com/aktech297) |
