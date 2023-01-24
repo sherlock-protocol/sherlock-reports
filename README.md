@@ -20,11 +20,13 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+| [Lyra](https://www.lyra.finance/)|January 2022    |[📎](audits/2022.01.24%20-%20Final%20-%20Lyra%20Audit%20Report.pdf) |Coming soon   |[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
 | [Perennial](https://www.perennial.finance/)|December 2022    | [📎](audits/2022.01.22%20-%20Final%20-%20Perennial%20December%20Update%20Audit%20Report.pdf)  | [📎](coverage-agreements/Perennial%20Coverage%20Agreement.pdf)  |[WatchPug](https://twitter.com/WatchPug_) |
 | [Nouns DAO](https://nouns.wtf/)| December 2022    |[📎](audits/2022.12.27%20-%20Final%20-%20Nouns%20DAO%20Audit%20Report.pdf)   |   |[WatchPug](https://twitter.com/WatchPug_) |
 | [Buffer Finance](https://buffer.finance/)| December 2022    |[📎](audits/2022.12.08%20-%20Final%20-%20Buffer%20Finance%20Audit%20Report.pdf)   | [📎](coverage-agreements/Buffer%20Finance%20Coverage%20Agreement.pdf)  |[0x52](https://www.sherlock.xyz/) |
 | [Opyn](https://www.opyn.co/)|December 2022    |[📎](audits/2022.12.09%20-%20Final%20-%20Opyn%20Crab%20Netting%20Audit%20Report.pdf)   | [📎](coverage-agreements/Opyn%20Squeeth%20Coverage%20Agreement%20(Revised%202022.12.15).pdf)  |[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
 | [FrankenDAO](https://www.3dfrankenpunks.com/)|December 2022    | [📎](audits/2022.12.01%20-%20Final%20-%20Frankendao%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
+| [Sentiment](https://www.sentiment.xyz/)|December 2022    | [📎](audits/2022.01.24%20-%20Final%20-%20Sentiment%20December%20Update%20Audit%20Report.pdf)  | [📎](coverage-agreements/Sentiment%20Coverage%20Agreement%20(Revised%202022.12.21).pdf) |[WatchPug](https://twitter.com/WatchPug_) |
 | [BullvBear](https://bullvbear.xyz/)|November 2022    | [📎](audits/2022.12.12%20-%20Final%20-%20BullvBear%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
 | [DODO](https://dodoex.io/)|November 2022    | [📎](audits/2022.12.12%20-%20Final%20-%20DODO%20Audit%20Report.pdf) |   |[ak1](https://twitter.com/aktech297) |
 | [Telcoin](https://www.telco.in/)|November 2022    | [📎](audits/2022.12.12%20-%20Final%20-%20Telcoin%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
@@ -34,6 +36,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 | [Mover](https://viamover.com/)|November 2022    | [📎](audits/2022.11.22%20-%20Final%20-%20Mover%20Audit%20Report.pdf) | [📎](coverage-agreements/Mover%20Coverage%20Agreement.pdf)  |[WatchPug](https://twitter.com/WatchPug_) |
 | [NFTPort](https://www.nftport.xyz/)|November 2022    | [📎](audits/2022.11.16%20-%20Final%20-%20NFTPort%20Audit%20Report.pdf) |   |[GimelSec](https://twitter.com/rayn731) |
 | [FIAT I](https://fiatdao.com/)|November 2022    | [📎](audits/2022.11.09%20-%20Final%20-%20FIAT%20I%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) <br> [Rayn (GimelSec)](https://twitter.com/rayn731) <br> [HickupHH3](https://twitter.com/HickupH)|
+| [Sentiment](https://www.sentiment.xyz/)|November 2022    | [📎](audits/2022.01.24%20-%20Final%20-%20Sentiment%20November%20Update%20Audit%20Report.pdf)  | [📎](coverage-agreements/Sentiment%20Coverage%20Agreement%20(Revised%202022.12.21).pdf) |[zachobront](https://twitter.com/zachobront) |
 | [Merit Circle](https://meritcircle.io/)|November 2022    | [📎](audits/2022.11.04%20-%20Final%20-%20Merit%20Circle%20Audit%20Report.pdf) |   |[WatchPug](https://twitter.com/WatchPug_) |
 | [Harpie](https://harpie.io/)|October 2022    | [📎](audits/2022.10.12%20-%20Final%20-%20Harpie%20Audit%20Report.pdf) |   |[leastwood](https://twitter.com/0xleastwood) |
 | [Notional](https://www.notional.finance/)|September 2022    |   |   |[Rayn (GimelSec)](https://twitter.com/rayn731) |
