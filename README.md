@@ -11,7 +11,7 @@
 
 <h1 class="center" style="color:red"> About Sherlock </h1>
 
-Sherlock is the first and only smart contract auditor to repay protocol teams with up to $10M in the event of a missed vulnerability. Sherlock is also the first and only auditor to combine the best of the legacy audit model (designated senior security expert on each project) with an audit contest model (independent auditors competing head-to-head). This approach ensures that some of the top security experts in the space are assigned to your codebase and incentivizes dozens of other security experts to compete for the most high-severity findings. We’re the only auditor willing to fully align our incentives with protocol teams. And we can provide a full audit + $10M of coverage + a $1M bug bounty for cheaper than most firms can do a standalone audit.
+Sherlock is the first and only smart contract auditor to repay protocol teams with up to $10M in the event of a missed vulnerability. Sherlock is also the first and only auditor to combine the best of the legacy audit model (designated senior security expert on each project) with an audit contest model (independent auditors competing head-to-head). This approach ensures that some of the top security experts in the space are assigned to your codebase and incentivizes dozens of other security experts to compete for the most high-severity findings. We’re the only auditor willing to fully align our incentives with protocol teams. And we can provide a full audit + $5M of coverage + a $500k bug bounty for cheaper than most firms can do a standalone audit.
 
 <br>
 
