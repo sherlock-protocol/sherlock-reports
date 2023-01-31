@@ -20,7 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
-| [Lyra (Newport)](https://www.lyra.finance/)|January 2023    |[📎](audits/2023.01.24%20-%20Final%20-%20Lyra%20Audit%20Report.pdf) |[📎](coverage-agreements/Lyra%20Newport%20Coverage%20Agreement.pdf)   |[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
+| [Lyra (Newport)](https://www.lyra.finance/)|January 2023    |[📎](audits/2023.01.24%20-%20Final%20-%20Lyra%20Audit%20Report.pdf) |[📎](coverage-agreements/Lyra%20Newport%20Coverage%20Agreement%20(Revised%202023.01.30).pdf)   |[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
 | [Perennial](https://www.perennial.finance/)|December 2022    | [📎](audits/2023.01.22%20-%20Final%20-%20Perennial%20December%20Update%20Audit%20Report.pdf)  | [📎](coverage-agreements/Perennial%20Coverage%20Agreement%20(Revised%202023.01.24).pdf)  |[WatchPug](https://twitter.com/WatchPug_) |
 | [Nouns DAO](https://nouns.wtf/)| December 2022    |[📎](audits/2022.12.27%20-%20Final%20-%20Nouns%20DAO%20Audit%20Report.pdf)   |   |[WatchPug](https://twitter.com/WatchPug_) |
 | [Buffer Finance](https://buffer.finance/)| December 2022    |[📎](audits/2022.12.08%20-%20Final%20-%20Buffer%20Finance%20Audit%20Report.pdf)   | [📎](coverage-agreements/Buffer%20Finance%20Coverage%20Agreement.pdf)  |[0x52](https://www.sherlock.xyz/) |
