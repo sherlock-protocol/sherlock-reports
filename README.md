@@ -20,7 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
-| [Optimism](https://www.optimism.io/)|March 2023    | [📎](audits/2023.03.03%20-%20Final%20-%20Optimism%20Bedrock%20Audit%20Report.pdf)  |   |[Zach Obront](https://twitter.com/zachobront) [Trust](https://twitter.com/trust__90)|
+| [Optimism](https://www.optimism.io/)|March 2023    | [📎](audits/2023.03.03%20-%20Final%20-%20Optimism%20Bedrock%20Audit%20Report.pdf)  |   |[Zach Obront](https://twitter.com/zachobront) <br> [Trust](https://twitter.com/trust__90)|
 | [Perennial](https://www.perennial.finance/)|February 2023    | [📎](audits/2023.02.28%20-%20Final%20-%20Perennial%20February%20Update%20Audit%20Report.pdf)  | [📎](coverage-agreements/Perennial%20Coverage%20Agreement%20(Revised%202023.02.28).pdf)  |[WatchPug](https://twitter.com/WatchPug_) |
 | [Lyra (Newport)](https://www.lyra.finance/)|January 2023    |[📎](audits/2023.01.24%20-%20Final%20-%20Lyra%20Audit%20Report.pdf) |[📎](coverage-agreements/Lyra%20Newport%20Coverage%20Agreement%20(Revised%202023.01.30).pdf)   |[Gerhard Wagner](https://twitter.com/g3rh4rdw4gn3r) |
 | [Perennial](https://www.perennial.finance/)|December 2022    | [📎](audits/2023.01.22%20-%20Final%20-%20Perennial%20December%20Update%20Audit%20Report.pdf)  | [📎](coverage-agreements/Perennial%20Coverage%20Agreement%20(Revised%202023.02.28).pdf)  |[WatchPug](https://twitter.com/WatchPug_) |
