@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+| [OpenQ](https://openq.dev/)|March 2023    | [📎](audits/2023.03.27%20-%20Final%20-%20OpenQ%20Audit%20Report.pdf)  | [📎](coverage-agreements/OpenQ%20Coverage%20Agreement%202023.03.27.pdf)  |[0x52](https://twitter.com/IAm0x52) |
 | [UXD](https://uxd.fi/)|March 2023    | [📎](audits/2023.03.17%20-%20Final%20-%20UXD%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 | [Volta](https://volta.finance/)|March 2023    | [📎](audits/2023.03.10%20-%20Final%20-%20Volta%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 | [Optimism](https://www.optimism.io/)|March 2023    | [📎](audits/2023.03.03%20-%20Final%20-%20Optimism%20Bedrock%20Audit%20Report.pdf)  |   |[Zach Obront](https://twitter.com/zachobront) <br> [Trust](https://twitter.com/trust__90)|
