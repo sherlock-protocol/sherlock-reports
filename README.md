@@ -20,7 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
-| [Syndr](https://www.syndr.com)|April 2023    | [📎](audits/2023.04.04%20-%20Final%20-%20Bond%20Protocol%20Update%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
+| [Syndr](https://www.syndr.com)|April 2023    | [📎](audits/2023.04.04%20-%20Final%20-%20Syndr%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 | [Bond Update](https://bondprotocol.finance/)|April 2023    | [📎](audits/2023.04.04%20-%20Final%20-%20Bond%20Protocol%20Update%20Audit%20Report.pdf)  |   |[xiaoming90](https://github.com/xiaoming9090) |
 | [Telcoin](https://www.telco.in)|March 2023    | [📎](audits/2023.03.30%20-%20Final%20-%20Telcoin%20Update%20Audit%20Report.pdf)  |   |[hyh](https://twitter.com/0xhyh) |
 | [Carapace](https://www.carapace.finance/)|March 2023    | [📎](audits/2023.03.29%20-%20Final%20-%20Carapace%20Audit%20Report.pdf)  |   |[clems4ever](https://www.sherlock.xyz/) |
