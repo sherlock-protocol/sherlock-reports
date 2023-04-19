@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Taurus](https://www.taurus.loans)|April 2023    | [📎](audits/2023.19.04%20-%20Final%20-%20Taurus%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [Sense Update](https://sense.finance)|April 2023    | [📎](audits/2023.18.04%20-%20Final%20-%20Sense%20Update%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [Olympus Update](https://www.olympusdao.finance)|April 2023    | [📎](audits/2023.13.04%20-%20Final%20-%20Olympus%20Update%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 | [Syndr](https://www.syndr.com)|April 2023    | [📎](audits/2023.10.04%20-%20Final%20-%20Syndr%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
