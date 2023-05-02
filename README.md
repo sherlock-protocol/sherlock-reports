@@ -22,7 +22,6 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 |---------------|------|--------------|--------------------|--------------------|
 [Kairos](https://www.kairos.loan/)|March 2023    | [📎](audits/2023.03.25%20-%20Final%20-%20Kairos%20Loan%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
 [Union Finance](https://union.finance/)|April 2023    | [📎](audits/2023.03.21%20-%20Final%20-%20Union%20Finance%20Update%20Audit%20Report.pdf)  | [📎](coverage-agreements/Union%20Finance%20Coverage%20Agreement%202023.04.26.pdf)  |[hyh](https://twitter.com/0xhyh) |
-[Kairos](https://www.kairos.loan)|April 2023    | [📎](audits/2023.24.04%20-%20Final%20-%20Kairos%20Loan%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [Taurus](https://www.taurus.loans)|April 2023    | [📎](audits/2023.19.04%20-%20Final%20-%20Taurus%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [Sense Update](https://sense.finance)|April 2023    | [📎](audits/2023.18.04%20-%20Final%20-%20Sense%20Update%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [Olympus Update](https://www.olympusdao.finance)|April 2023    | [📎](audits/2023.13.04%20-%20Final%20-%20Olympus%20Update%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
