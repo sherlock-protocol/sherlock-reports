@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Unitas](https://unitas.foundation/)|June 2023    | [📎](audits/2023.06.12%20-%20Final%20-%20Unitas%20Protocol%20Audit%20Report.pdf)  |   |[stopthecap](https://twitter.com/None) |
 [Surge](https://twitter.com/surge_fi)|March 2023    | [📎](audits/2023.03.02%20-%20Final%20-%20Surge%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
 [JOJO](https://app.jojo.exchange/trade)|May 2023    | [📎](audits/2023.05.10%20-%20Final%20-%20JOJO%20Exchange%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
 [Teller](https://teller.org)|April 2023    | [📎](audits/2023.04.22%20-%20Final%20-%20Teller%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
