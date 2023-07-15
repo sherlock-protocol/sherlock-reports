@@ -23,7 +23,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 [Unitas](https://unitas.foundation/)|June 2023    | [📎](audits/2023.06.12%20-%20Final%20-%20Unitas%20Protocol%20Audit%20Report.pdf)  |   |[stopthecap](https://twitter.com/None) |
 [Surge](https://twitter.com/surge_fi)|March 2023    | [📎](audits/2023.03.02%20-%20Final%20-%20Surge%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
 [JOJO](https://app.jojo.exchange/trade)|May 2023    | [📎](audits/2023.05.10%20-%20Final%20-%20JOJO%20Exchange%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
-[Teller](https://teller.org)|April 2023    | [📎](audits/2023.04.22%20-%20Final%20-%20Teller%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
+[Teller](https://teller.org)|April 2023    | [📎](audits/2023.04.22%20-%20Final%20-%20Teller%20Audit%20Report.pdf)  |[📎](coverage-agreements/Teller%20Coverage%20Agreement%202023.07.15.pdf)   |[0x52](https://twitter.com/@IAm0x52) |
 [Eco Protocol](https://eco.org/)|May 2023    | [📎](audits/2023.05.25%20-%20Final%20-%20Eco%20Protocol%20Audit%20Report.pdf)  |   |[stopthecap](https://twitter.com/None) |
 [Splits](https://www.0xsplits.xyz/)|April 2023    | [📎](audits/2023.04.24%20-%20Final%20-%20Splits%20Audit%20Report.pdf)  |   |[obront](https://twitter.com/zachobront) |
 [Y2K](https://www.y2k.finance)|March 2023    | [📎](audits/2023.03.27%20-%20Final%20-%20Y2K%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
