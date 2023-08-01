@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Index](https://indexcoop.com/)|June 2023    | [📎](audits/2023.06.14%20-%20Final%20-%20Index%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
 [Ajna](https://www.ajna.finance)|June 2023    | [📎](audits/2023.06.22%20-%20Final%20-%20Ajna%20Update%20Audit%20Report.pdf)  |[📎](coverage-agreements/Ajna%20Coverage%20Agreement%202023.07.15.pdf)   |[hyh](https://twitter.com/0xhyh) |
 [Iron Bank](https://linktr.ee/ibdotxyz)|June 2023    | [📎](audits/2023.06.11%20-%20Final%20-%20Iron%20Bank%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
 [GMX](https://gmx.io)|June 2023    | [📎](audits/2023.06.04%20-%20Final%20-%20GMX%20Update%20Audit%20Report.pdf)  |   |[IllIllI](https://twitter.com/None) |
