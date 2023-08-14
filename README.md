@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Hubble Exchange](https://hubble.exchange/)|July 2023    | [📎](audits/2023.07.03%20-%20Final%20-%20Hubble%20Exchange%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
 [Dinari](https://dinari.com)|July 2023    | [📎](audits/2023.07.03%20-%20Final%20-%20Dinari%20Audit%20Report.pdf)  |   |[ctf_sec](https://twitter.com/None) |
 [Bond](https://bondprotocol.finance)|July 2023    | [📎](audits/2023.07.08%20-%20Final%20-%20Bond%20Options%20Audit%20Report.pdf)  |   |[ctf_sec](https://twitter.com/None) |
 [Index](https://indexcoop.com/)|June 2023    | [📎](audits/2023.06.14%20-%20Final%20-%20Index%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
