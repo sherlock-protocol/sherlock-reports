@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[GLIF](https://www.glif.io/)|July 2023    | [📎](audits/2023.07.11%20-%20Final%20-%20GLIF%20Audit%20Report.pdf)  |   |[stopthecap](https://twitter.com/None) |
 [Real Wagmi](https://wagmi.com)|June 2023    | [📎](audits/2023.25.06%20-%20Final%20-%20Real%20Wagmi%20Audit%20Report.pdf)  |   |[stopthecap](https://twitter.com/None) |
 [Arrakis](https://www.arrakis.finance/)|June 2023    | [📎](audits/2023.06.29%20-%20Final%20-%20Arrakis%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
 [Unstoppable](https://unstoppable.ooo)|July 2023    | [📎](audits/2023.07.05%20-%20Final%20-%20Unstoppable%20Audit%20Report.pdf)  |   |[stopthecap](https://twitter.com/None) |
