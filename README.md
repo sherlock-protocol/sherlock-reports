@@ -20,7 +20,6 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
-
 [DODO](https://dodoex.io)|July 2023    | [📎](audits/2023.07.01%20-%20Final%20-%20DODO%20V3%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
 [Tokensoft](https://www.tokensoft.io)|July 2023    | [📎](audits/2023.07.21%20-%20Final%20-%20Tokensoft%20Audit%20Report.pdf)  |   |[stopthecap](https://twitter.com/None) |
 | [Perennial](https://www.perennial.finance/)|June 2023    | [📎](audits/2023.06.15%20-%20Final%20-%20Perennial%20Audit%20Report.pdf)  |    |[roguereddwarf](https://twitter.com/None) |
