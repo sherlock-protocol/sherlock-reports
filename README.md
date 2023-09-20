@@ -54,6 +54,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 [Olympus Update](https://www.olympusdao.finance)|April 2023    | [📎](audits/2023.13.04%20-%20Final%20-%20Olympus%20Update%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 | [Syndr](https://www.syndr.com)|April 2023    | [📎](audits/2023.10.04%20-%20Final%20-%20Syndr%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 | [Bond Update](https://bondprotocol.finance/)|April 2023    | [📎](audits/2023.04.04%20-%20Final%20-%20Bond%20Protocol%20Update%20Audit%20Report.pdf)  |   |[xiaoming90](https://github.com/xiaoming9090) |
+| [GMX](https://gmx.io/)|March 2023    | [📎](audits/2023.03.24%20-%20Final%20-%20GMX%20Audit%20Report.pdf)  |   |[IllIllI](https://twitter.com/None) |
 | [Telcoin](https://www.telco.in)|March 2023    | [📎](audits/2023.03.30%20-%20Final%20-%20Telcoin%20Update%20Audit%20Report.pdf)  |   |[hyh](https://twitter.com/0xhyh) |
 | [Carapace](https://www.carapace.finance/)|March 2023    | [📎](audits/2023.03.29%20-%20Final%20-%20Carapace%20Audit%20Report.pdf)  |   |[clems4ever](https://www.sherlock.xyz/) |
 | [OpenQ](https://openq.dev/)|March 2023    | [📎](audits/2023.03.27%20-%20Final%20-%20OpenQ%20Audit%20Report.pdf)  | [📎](coverage-agreements/OpenQ%20Coverage%20Agreement%202023.06.23.pdf)  |[0x52](https://twitter.com/IAm0x52) |
