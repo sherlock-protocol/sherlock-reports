@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[GFX](https://gfx.xyz)|July 2023    | [📎](audits/2023.07.08%20-%20Final%20-%20GFX%20Labs%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [Symmetrical](https://symm.io/)|July 2023    | [📎](audits/2023.07.03%20-%20Final%20-%20Symmetrical%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [Perennial](https://perennial.finance/)|September 2023    | [📎](audits/2023.09.23%20-%20Final%20-%20Perennial%20V2%20Fix%20Review%20Audit%20Report.pdf)  |   |[panprog](https://twitter.com/panprog) |
 [Symmetrical](https://symm.io/)|September 2023    | [📎](audits/2023.09.04%20-%20Final%20-%20Symmetrical%20Update%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
