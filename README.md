@@ -20,7 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
-[RealWagmi](https://wagmi.com)|October 2023    | [📎](audits/2023.10.23%20-%20Final%20-%20Real%20Wagmi%20%232%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
+[RealWagmi](https://wagmi.com)|October 2023    | [📎](audits/2023.10.23%20-%20Final%20-%20Real%20Wagmi%202%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [LooksRare](https://looksrare.org/)|November 2023    | [📎](audits/2023.11.04%20-%20Final%20-%20LooksRare%20Audit%20Report.pdf)  |   |[cergyk](https://twitter.com/cergyk1337) |
 [Gitcoin Allo](https://www.gitcoin.co)|September 2023    | [📎](audits/2023.21.09%20-%20Final%20-%20Allo%20V2%20Audit%20Report.pdf)  |   |[WatchPug](https://twitter.com/WatchPug) |
 [KyberSwap](https://kyberswap.com/swap/ethereum)|September 2023    | [📎](audits/2023.09.06%20-%20Final%20-%20KyberSwap%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
@@ -55,7 +55,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 [Splits](https://www.0xsplits.xyz/)|April 2023    | [📎](audits/2023.04.24%20-%20Final%20-%20Splits%20Audit%20Report.pdf)  |   |[obront](https://twitter.com/zachobront) |
 [Y2K](https://www.y2k.finance)|March 2023    | [📎](audits/2023.03.27%20-%20Final%20-%20Y2K%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
 [Hats](https://www.hatsprotocol.xyz/)|March 2023    | [📎](audits/2023.03.06%20-%20Final%20-%20Hats%20Audit%20Report.pdf)  |   |[obront](https://twitter.com/zachobront) |
-[Notional](https://www.notional.finance)|April 2023    | [📎](audits/2023.04.15%20-%20Final%20-%20Notional%20Update%20%233%20Audit%20Report.pdf)  |   |[hyh](https://twitter.com/0xhyh) |
+[Notional](https://www.notional.finance)|April 2023    | [📎](audits/2023.04.15%20-%20Final%20-%20Notional%20Update%203%20Audit%20Report.pdf)  |   |[hyh](https://twitter.com/0xhyh) |
 [Kairos](https://www.kairos.loan/)|March 2023    | [📎](audits/2023.03.25%20-%20Final%20-%20Kairos%20Loan%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/@IAm0x52) |
 [Union Finance](https://union.finance/)|April 2023    | [📎](audits/2023.03.21%20-%20Final%20-%20Union%20Finance%20Update%20Audit%20Report.pdf)  | [📎](coverage-agreements/Union%20Finance%20Coverage%20Agreement%202023.06.23.pdf)  |[hyh](https://twitter.com/0xhyh) |
 [Taurus](https://www.taurus.loans)|April 2023    | [📎](audits/2023.19.04%20-%20Final%20-%20Taurus%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
