@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Tokemak](https://www.tokemak.com)|August 2023    | [📎](audits/2023.08.29%20-%20Final%20-%20Tokemak%20V2%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090)|
 [RealWagmi](https://wagmi.com)|October 2023    | [📎](audits/2023.10.23%20-%20Final%20-%20Real%20Wagmi%202%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [LooksRare](https://looksrare.org/)|November 2023    | [📎](audits/2023.11.04%20-%20Final%20-%20LooksRare%20Audit%20Report.pdf)  |   |[cergyk](https://twitter.com/cergyk1337) |
 [Gitcoin Allo](https://www.gitcoin.co)|September 2023    | [📎](audits/2023.21.09%20-%20Final%20-%20Allo%20V2%20Audit%20Report.pdf)  |   |[WatchPug](https://twitter.com/WatchPug) |
