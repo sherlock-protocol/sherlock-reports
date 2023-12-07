@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Footium](https://footium.club)|May 2023    | [📎](audits/2023.05.05%20-%20Final%20-%20Footium%202%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [Aloe](https://aloe.capital)|October 2023    | [📎](audits/2023.10.28%20-%20Final%20-%20Aloe%20Audit%20Report.pdf)  |   |[roguereddwarf](https://twitter.com/None)|
 [Tokemak](https://www.tokemak.com)|August 2023    | [📎](audits/2023.08.29%20-%20Final%20-%20Tokemak%20V2%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090)|
 [RealWagmi](https://wagmi.com)|October 2023    | [📎](audits/2023.10.23%20-%20Final%20-%20Real%20Wagmi%202%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
