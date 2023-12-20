@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Perennial](https://perennial.finance/)|November 2023    | [📎](audits/2023.11.14%20-%20Final%20-%20Perennial%20V2%20Update%20%231%20Audit%20Report.pdf)  |   |[panprog](https://twitter.com/panprog) |
 [Notional](https://www.notional.finance)|November 2023    | [📎](audits/2023.11.25%20-%20Final%20-%20Notional%20Update%204%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090)|
 [Footium](https://footium.club)|May 2023    | [📎](audits/2023.05.05%20-%20Final%20-%20Footium%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [Aloe](https://aloe.capital)|October 2023    | [📎](audits/2023.10.28%20-%20Final%20-%20Aloe%20Audit%20Report.pdf)  |   |[roguereddwarf](https://twitter.com/None)|
