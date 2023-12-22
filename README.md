@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Ajna](https://www.ajna.finance)|October 2023    | [📎](audits/2023.27.10%20-%20Final%20-%20Ajna%202%20Audit%20Report.pdf)  |[📎](coverage-agreements/Ajna%20Coverage%20Agreement%202023.07.15.pdf)   |[hyh](https://twitter.com/0xhyh) |
 [Perennial](https://perennial.finance/)|November 2023    | [📎](audits/2023.11.14%20-%20Final%20-%20Perennial%20V2%20Update%201%20Audit%20Report.pdf)  |   |[panprog](https://twitter.com/panprog) |
 [Notional](https://www.notional.finance)|November 2023    | [📎](audits/2023.11.25%20-%20Final%20-%20Notional%20Update%204%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090)|
 [Footium](https://footium.club)|May 2023    | [📎](audits/2023.05.05%20-%20Final%20-%20Footium%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
