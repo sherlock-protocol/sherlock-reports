@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Avail](https://www.availproject.org)|January 2024    | [📎](audits/2024.22.01%20-%20Final%20-%20Avail%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [JOJO](https://app.jojo.exchange/trade)|January 2024    | [📎](audits/2024.01.18%20-%20Final%20-%20JOJO%20Exchange%20Update%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [Notional](https://www.notional.finance)|January 2024    | [📎](audits/2024.01.18%20-%20Final%20-%20Notional%20Update%205%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [LooksRare](https://looksrare.org/)|January 2024    | [📎](audits/2024.01.24%20-%20Final%20-%20LooksRare%20YOLO%20Audit%20Report.pdf)  |   |[mstpr-brainbot](https://twitter.com/tapired) |
