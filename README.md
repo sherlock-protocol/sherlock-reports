@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Arcadia](https://arcadia.finance)|February 2024    | [📎](audits/2024.02.16%20-%20Final%20-%20Arcadia%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [100x](https://www.100x.finance)|February 2024    | [📎](audits/2024.02.13%20-%20Final%20-%20100x%20Audit%20Report.pdf)  |   |[panprog](https://twitter.com/panprog) |
 [Covalent](https://covalentnetwork.org)|January 2024    | [📎](audits/2024.01.26%20-%20Final%20-%20Covalent%20Audit%20Report.pdf)  |   |[cergyk](https://twitter.com/cergyk1337) |
 [Ubiquity](https://ubiquitydao.xyz/)|January 2024    | [📎](audits/2024.01.10%20-%20Final%20-%20Ubiquity%20Audit%20Report.pdf)  |   |[cergyk](https://twitter.com/cergyk1337) |
