@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Telcoin](https://www.telco.in)|March 2024    | [📎](audits/2024.03.07%20-%20Final%20-%20Telcoin%20Platform%20Audit%20Update%20Audit%20Report.pdf)  |   |[bughuntoor](https://twitter.com/None) |
 [Flat Money](https://flat.money)|February 2024    | [📎](audits/2024.02.04%20-%20Final%20-%20Flat%20Money%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [RealWagmi](https://wagmi.com)|February 2024    | [📎](audits/2024.02.27%20-%20Final%20-%20Real%20Wagmi%202%20Update%20Audit%20Report.pdf)  |   |[0xDetermination](https://twitter.com/0xDetermination) |
 [Arcadia](https://arcadia.finance)|February 2024    | [📎](audits/2024.02.16%20-%20Final%20-%20Arcadia%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
