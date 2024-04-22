@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Napier](https://napier.finance/)|February 2024    | [📎](audits/2024.02.26%20-%20Final%20-%20Napier%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [Rio Network](https://www.rio.network/)|March 2024    | [📎](audits/2024.03.07%20-%20Final%20-%20Rio%20Network%20Audit%20Report.pdf)  |   |[hash](https://twitter.com/10xhash) |
 [Mento](https://www.mentolabs.xyz/)|March 2024    | [📎](audits/2024.03.22%20-%20Final%20-%20Mento%20Audit%20Report.pdf)  |   |[cergyk](https://twitter.com/cergyk1337) |
 [vVv](https://exchange.vvvchain.io/)|March 2024    | [📎](audits/2024.03.28%20-%20Final%20-%20vVv%20Vesting%20%26%20Staking%20Audit%20Report.pdf)  |   |[IllIllI](https://twitter.com/IllIllI000) |
