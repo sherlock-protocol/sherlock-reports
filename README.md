@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Goat Trading](https://www.goat.trading/)|March 2024    | [📎](audits/2024.03.31%20-%20Final%20-%20Goat%20Trading%20Audit%20Report.pdf)  |   |[zzykxx](https://twitter.com/zzykxx) |
 [Axis Finance](https://www.sherlock.xyz/)|March 2024    | [📎](audits/2024.03.30%20-%20Final%20-%20Axis%20Finance%20Audit%20Report.pdf)  |   |[hash](https://twitter.com/10xhash) |
 [Perennial](https://perennial.finance/)|April 2024    | [📎](audits/2024.04.06%20-%20Final%20-%20Perennial%20V2%20Update%202%20Audit%20Report.pdf)  |   |[panprog](https://twitter.com/panprog) |
 [M^0](https://m0.xyz)|March 2024    | [📎](audits/2024.03.27%20-%20Final%20-%20M%5E0%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
