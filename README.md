@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Amphor](https://amphor.io/)|March 2024    | [📎](audits/2024.03.18%20-%20Final%20-%20Amphor%20Audit%20Report.pdf)  |   |[zzykxx](https://twitter.com/zzykxx) |
 [Copra Finance](https://www.copra.finance)|March 2024    | [📎](audits/2024.03.21%20-%20Final%20-%20Copra%20Finance%20Audit%20Report.pdf)  |   |[hash](https://twitter.com/10xhash) |
 [Goat Trading](https://www.goat.trading/)|March 2024    | [📎](audits/2024.03.31%20-%20Final%20-%20Goat%20Trading%20Audit%20Report.pdf)  |   |[zzykxx](https://twitter.com/zzykxx) |
 [Axis Finance](https://www.sherlock.xyz/)|March 2024    | [📎](audits/2024.03.30%20-%20Final%20-%20Axis%20Finance%20Audit%20Report.pdf)  |   |[hash](https://twitter.com/10xhash) |
