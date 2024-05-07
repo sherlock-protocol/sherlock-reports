@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[WooFi](https://fi.woo.org/)|March 2024    | [📎](audits/2024.03.20%20-%20Final%20-%20WOOFi%20Swap%20Audit%20Report.pdf)  |   |[mstpr-brainbot](https://twitter.com/tapired) |
 [Tapioca DAO](https://www.tapioca.xyz/)|March 2024    | [📎](audits/2024.03.15%20-%20Final%20-%20Tapioca%20Audit%20Report.pdf)  |   |[hyh](https://twitter.com/0xhyh) |
 [Amphor](https://amphor.io/)|March 2024    | [📎](audits/2024.03.18%20-%20Final%20-%20Amphor%20Audit%20Report.pdf)  |   |[zzykxx](https://twitter.com/zzykxx) |
 [Copra Finance](https://www.copra.finance)|March 2024    | [📎](audits/2024.03.21%20-%20Final%20-%20Copra%20Finance%20Audit%20Report.pdf)  |   |[hash](https://twitter.com/10xhash) |
