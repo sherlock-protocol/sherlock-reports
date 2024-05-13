@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Flat Money](https://flat.money)|April 2024    | [📎](audits/2024.04.12%20-%20Final%20-%20Flat%20Money%20Fix%20Review%20Contest%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [RadicalxChange](https://www.radicalxchange.org/)|March 2024    | [📎](audits/2024.03.22%20-%20Final%20-%20RadicalxChange%20Audit%20Report.pdf)  |   |[zzykxx](https://twitter.com/zzykxx) |
 [Seismic](https://www.seismic.finance)|March 2024    | [📎](audits/2024.03.25%20-%20Final%20-%20Seismic%20Finance%20Audit%20Report.pdf)  |   |[mstpr-brainbot](https://twitter.com/tapired) |
 [Perpetual](https://perp.com/)|March 2024    | [📎](audits/2024.03.18%20-%20Final%20-%20Perpetual%20Audit%20Report.pdf)  |   |[IllIllI](https://twitter.com/IllIllI000) |
