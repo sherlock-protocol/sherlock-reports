@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[TITLES](https://titles.xyz/)|April 2024    | [📎](audits/2024.04.26%20-%20Final%20-%20TITLES%20Publishing%20Protocol%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [Perennial](https://perennial.finance/)|May 2024    | [📎](audits/2024.05.12%20-%20Final%20-%20Kwenta%20x%20Perennial%20Integration%20Update%20Audit%20Report.pdf)  |   |[panprog](https://twitter.com/panprog) |
 [Zap Protocol](https://www.zap.tech/)|March 2024    | [📎](audits/2024.03.20%20-%20Final%20-%20Zap%20Protocol%20Audit%20Report.pdf)  |   |[bughuntoor](https://twitter.com/None) |
 [Arcadia](https://arcadia.finance)|April 2024    | [📎](audits/2024.04.25%20-%20Final%20-%20Arcadia%20-%20Aerodrome%20integrations%20Audit%20Report.pdf)  |   |[zzykxx](https://twitter.com/zzykxx) |
