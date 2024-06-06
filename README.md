@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Zivoe](https://www.zivoe.com/)|April 2024    | [📎](audits/2024.04.25%20-%20Final%20-%20Zivoe%20Audit%20Report.pdf)  |   |[cergyk](https://twitter.com/cergyk1337) |
 [Alchemix](https://alchemix.fi/)|April 2024    | [📎](audits/2024.04.19%20-%20Final%20-%20Alchemix%20-%20Optimism%20Bridging%20and%20Reward%20Routing%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [Napier](https://napier.finance/)|May 2024    | [📎](audits/2024.05.20%20-%20Final%20-%20Napier%20Finance%20-%20LST/LRT%20Integrations%20Audit%20Report.pdf)  |   |[zzykxx](https://twitter.com/zzykxx) |
 [TITLES](https://titles.xyz/)|April 2024    | [📎](audits/2024.04.26%20-%20Final%20-%20TITLES%20Publishing%20Protocol%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
