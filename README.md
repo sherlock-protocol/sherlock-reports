@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Optimism](https://www.optimism.io)|April 2024    | [📎](audits/2024.04.04%20-%20Final%20-%20Optimism%20Fault%20Proofs%20Audit%20Report.pdf)  |   |[Trust](https://twitter.com/trust__90) |
 [xKeeper](https://xkeeper-core-r5jgzrkru-defi-wonderland.vercel.app)|April 2024    | [📎](audits/2024.04.13%20-%20Final%20-%20xKeeper%20Audit%20Report.pdf)  |   |[IllIllI](https://twitter.com/IllIllI000) |
 [Exactly Protocol](https://exact.ly)|May 2024    | [📎](audits/2024.05.04%20-%20Final%20-%20Exactly%20Protocol%20Audit%20Report.pdf)  |   |[Trumpero](https://twitter.com/Trungore) |
 [Zivoe](https://www.zivoe.com/)|April 2024    | [📎](audits/2024.04.25%20-%20Final%20-%20Zivoe%20Audit%20Report.pdf)  |   |[cergyk](https://twitter.com/cergyk1337) |
