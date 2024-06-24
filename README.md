@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Terrace Fi](https://terrace.fi/)|June 2024    | [📎](audits/2024.06.01%20-%20Final%20-%20Terrace%20Audit%20Report.pdf)  |   |[bin2chen](https://twitter.com/bin2chen) |
 [Midas](https://midas.app/)|May 2024    | [📎](audits/2024.05.31%20-%20Final%20-%20Midas%20Audit%20Report.pdf)  |   |[pkqs90](https://twitter.com/woshilalala) |
 [FairSide](https://fairside.io/)|May 2024    | [📎](audits/2024.05.02%20-%20Final%20-%20FairSide%20Network%20Audit%20Report.pdf)  |   |[0xdeadbeef](https://twitter.com/0xdeadbeef____) |
 [Sophon](https://sophon.xyz/)|May 2024    | [📎](audits/2024.05.24%20-%20Final%20-%20Sophon%20Farming%20Contracts%20Audit%20Report.pdf)  |   |[zzykxx](https://twitter.com/zzykxx) |
