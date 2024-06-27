@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Teller](https://teller.org)|April 2024    | [📎](audits/2024.04.29%20-%20Final%20-%20Teller%20Finance%20Audit%20Report.pdf)  |   |[bughuntoor](https://twitter.com/None) |
 [Arrakis](https://www.arrakis.finance/)|June 2024    | [📎](audits/2024.06.04%20-%20Final%20-%20Arrakis%20Valantis%20SOT%20Audit%20Audit%20Report.pdf)  |   |[cergyk](https://twitter.com/cergyk1337) |
 [Terrace Fi](https://terrace.fi/)|June 2024    | [📎](audits/2024.06.01%20-%20Final%20-%20Terrace%20Audit%20Report.pdf)  |   |[bin2chen](https://twitter.com/bin2chen) |
 [Midas](https://midas.app/)|May 2024    | [📎](audits/2024.05.31%20-%20Final%20-%20Midas%20Audit%20Report.pdf)  |   |[pkqs90](https://twitter.com/woshilalala) |
