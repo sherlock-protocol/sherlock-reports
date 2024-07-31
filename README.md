@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Mellow Protocol](https://mellow.finance/)|June 2024    | [📎](audits/2024.06.27%20-%20Final%20-%20Mellow%20Modular%20LRTs%20Audit%20Report.pdf)  |   |[hash](https://twitter.com/10xhash) |
 [Elfi](https://elfi.xyz/)|June 2024    | [📎](audits/2024.06.20%20-%20Final%20-%20Elfi%20Audit%20Report.pdf)  |   |[mstpr-brainbot](https://twitter.com/tapired) |
 [PoolTogether](https://pooltogether.com/)|June 2024    | [📎](audits/2024.06.06%20-%20Final%20-%20PoolTogether%3A%20The%20Prize%20Layer%20for%20DeFi%20Audit%20Report.pdf)  |   |[hash](https://twitter.com/10xhash) |
 [Symmetrical](https://symm.io/)|June 2024    | [📎](audits/2024.06.22%20-%20Final%20-%20SYMMIO%20v0.83%20Update%20Contest%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
