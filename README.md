@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Orderly Network](https://orderly.network/)|June 2024    | [📎](audits/2024.06.30%20-%20Final%20-%20Orderly%20Network%20Audit%20Report.pdf)  |   |[0xdeadbeef](https://twitter.com/0xdeadbeef____) |
 [SuperBoring](https://warpcast.com/superboring)|July 2024    | [📎](audits/2024.07.17%20-%20Final%20-%20Super%20Boring%20Audit%20Report.pdf)  |   |[pkqs90](https://twitter.com/woshilalala) |
 [Tokensoft](https://www.tokensoft.io)|June 2024    | [📎](audits/2024.06.04%20-%20Final%20-%20Tokensoft%20Distributor%20Contracts%20Update%20Audit%20Report.pdf)  |   |[jkoppel](https://twitter.com/0xjimmyk) |
 [Mellow Protocol](https://mellow.finance/)|June 2024    | [📎](audits/2024.06.27%20-%20Final%20-%20Mellow%20Modular%20LRTs%20Audit%20Report.pdf)  |   |[hash](https://twitter.com/10xhash) |
