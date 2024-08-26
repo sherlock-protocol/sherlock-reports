@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Exactly Protocol](https://exact.ly)|July 2024    | [📎](audits/2024.07.25%20-%20Final%20-%20Exactly%20Protocol%20Update%20-%20Staking%20Contract%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
 [Kwenta](https://kwenta.io/)|August 2024    | [📎](audits/2024.08.03%20-%20Final%20-%20Kwenta%20Staking%20Rewards%20Upgrade%20Audit%20Report.pdf)  |   |[g](https://twitter.com/gjaldon) |
 [Deepr Finance](https://www.deepr.finance/)|July 2024    | [📎](audits/2024.07.11%20-%20Final%20-%20Deepr%20Audit%20Report.pdf)  |   |[pkqs90](https://twitter.com/woshilalala) |
 [dHEDGE](https://dhedge.org/)|June 2024    | [📎](audits/2024.06.22%20-%20Final%20-%20dHEDGE%20Audit%20Report.pdf)  |   |[zzykxx](https://twitter.com/zzykxx) |
