@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Notional](https://www.notional.finance)|July 2024    | [📎](audits/2024.07.03%20-%20Final%20-%20Notional%20Leveraged%20Vaults%3A%20Pendle%20PT%20and%20Vault%20Incentives%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [Velocimeter](https://www.velocimeter.xyz/)|July 2024    | [📎](audits/2024.07.25%20-%20Final%20-%20Velocimeter%20Audit%20Report.pdf)  |   |[bughuntoor](https://twitter.com/None) |
 [MagicSea](https://magicsea.finance/home)|July 2024    | [📎](audits/2024.07.11%20-%20Final%20-%20MagicSea%20-%20the%20native%20DEX%20on%20the%20IotaEVM%20Audit%20Report.pdf)  |   |[PUSH0](https://twitter.com/PUSH0audits) |
 [Exactly Protocol](https://exact.ly)|July 2024    | [📎](audits/2024.07.25%20-%20Final%20-%20Exactly%20Protocol%20Update%20-%20Staking%20Contract%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
