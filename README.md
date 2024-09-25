@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Midas](https://midas.app/)|August 2024    | [📎](audits/2024.08.27%20-%20Final%20-%20Midas%20-%20Instant%20Minter/Redeemer%20Audit%20Report.pdf)  |   |[pkqs90](https://twitter.com/woshilalala) |
 [Aloe](https://aloe.capital)|July 2024    | [📎](audits/2024.07.16%20-%20Final%20-%20Aloe%20Update%20Audit%20Report.pdf)  |   |[panprog](https://twitter.com/panprog) |
 [ALEO](https://aleo.org/)|June 2024    | [📎](audits/2024.06.24%20-%20Final%20-%20Aleo%20Audit%20Report.pdf)  |   |[dtheo](https://twitter.com/infosecual) |
 [Maker](https://makerdao.com/)|August 2024    | [📎](audits/2024.08.05%20-%20Final%20-%20MakerDAO%20Endgame%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
