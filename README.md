@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Winnables Raffle](https://winnables.com/)|August 2024    | [📎](audits/2024.08.20%20-%20Final%20-%20Winnables%20Raffles%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
 [Rumpel Labs](https://sense.finance)|August 2024    | [📎](audits/2024.08.29%20-%20Final%20-%20Rumpel%20Point%20Tokenization%20Protocol%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
 [Midas](https://midas.app/)|August 2024    | [📎](audits/2024.08.27%20-%20Final%20-%20Midas%20-%20Instant%20Minter/Redeemer%20Audit%20Report.pdf)  |   |[pkqs90](https://twitter.com/woshilalala) |
 [Aloe](https://aloe.capital)|July 2024    | [📎](audits/2024.07.16%20-%20Final%20-%20Aloe%20Update%20Audit%20Report.pdf)  |   |[panprog](https://twitter.com/panprog) |
