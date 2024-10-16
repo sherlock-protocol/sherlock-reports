@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Perennial](https://perennial.finance/)|September 2024    | [📎](audits/2024.09.13%20-%20Final%20-%20Perennial%20V2%20Update%203%20Audit%20Report.pdf)  |   |[panprog](https://twitter.com/panprog) |
 [Andromeda](AndromedaProtocol.io)|June 2024    | [📎](audits/2024.06.23%20-%20Final%20-%20Andromeda%20%E2%80%93%20Validator%20Staking%20ADO%20and%20Vesting%20ADO%20Audit%20Report.pdf)  |   |[bin2chen](https://twitter.com/bin2chen) |
 [Saffron Finance](https://saffron.finance/)|September 2024    | [📎](audits/2024.09.21%20-%20Final%20-%20Saffron%20Lido%20Vaults%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
 [Winnables Raffle](https://winnables.com/)|August 2024    | [📎](audits/2024.08.20%20-%20Final%20-%20Winnables%20Raffles%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
