@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Tokamak Network](https://www.tokamak.network/)|September 2024    | [📎](audits/2024.09.25%20-%20Final%20-%20Thanos%20L2%20Native%20Token%20Bridge%20Audit%20Report.pdf)  |   |[obront](https://twitter.com/zachobront) |
 [SYMMIO](https://symm.io/)|October 2024    | [📎](audits/2024.10.08%20-%20Final%20-%20SYMMIO%20v0.8.4%20Update%20Contest%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [WooFi](https://fi.woo.org/)|September 2024    | [📎](audits/2024.09.24%20-%20Final%20-%20WOOFi%20Swap%20on%20Solana%20Audit%20Report.pdf)  |   |[g](https://twitter.com/gjaldon) |
 [Perennial](https://perennial.finance/)|September 2024    | [📎](audits/2024.09.13%20-%20Final%20-%20Perennial%20V2%20Update%203%20Audit%20Report.pdf)  |   |[panprog](https://twitter.com/panprog) |
