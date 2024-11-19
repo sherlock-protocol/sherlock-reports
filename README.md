@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Velodrome](https://velodrome.finance/)|November 2024 | [📎](audits/2024.11.13%20-%20Final%20-%20Velodrome.pdf) | | [xiaoming90](https://github.com/xiaoming9090), [unforgiven](https://github.com/0xunforgiven), [Akshay Srivastav](https://github.com/akshaysrivastav), [GiuseppeDeLaZara](https://github.com/windhustler) |
 [Sentiment](https://www.sentiment.xyz)|August 2024    | [📎](audits/2024.08.24%20-%20Final%20-%20Sentiment%20V2%20Audit%20Report.pdf)  |   |[hash](https://twitter.com/10xhash) |
 [Orderly Network](https://orderly.network/)|October 2024    | [📎](audits/2024.10.27%20-%20Final%20-%20Orderly%20Solana%20Vault%20Contract%20Audit%20Report.pdf)  |   |[g](https://twitter.com/gjaldon) |
 [Boost Protocol AA](https://boost.xyz)|September 2024    | [📎](audits/2024.09.20%20-%20Final%20-%20Boost%20Core%20Incentive%20Protocol%20Audit%20Report.pdf)  |   |[0xdeadbeef](https://twitter.com/0xdeadbeef____) |
