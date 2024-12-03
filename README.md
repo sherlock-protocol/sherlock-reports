@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Flayer](https://www.flayer.io/)|September 2024    | [📎](audits/2024.09.15%20-%20Final%20-%20Flayer%20Audit%20Report.pdf)  |   |[zzykxx](https://twitter.com/zzykxx) |
 [Zerolend](https://zerolend.xyz/)|September 2024    | [📎](audits/2024.09.10%20-%20Final%20-%20ZeroLend%20One%20%20Audit%20Report.pdf)  |   |[hyh](https://twitter.com/0xhyh) |
 [vVv](https://exchange.vvvchain.io/)|November 2024    | [📎](audits/2024.11.17%20-%20Final%20-%20vVv%20Launchpad%20-%20Investments%20%26%20Token%20distribution%20Audit%20Report.pdf)  |   |[bughuntoor](https://twitter.com/None) |
 [Wasabi](https://www.wasabi.xyz/) | November 2024 | [📎](audits/2024.11.28%20-%20Final%20-%20Wasabi%20Audit%20Report.pdf)  |   |[EgisSecurity](https://github.com/Egis-Security), [0x3b](https://github.com/0x3b33) |
