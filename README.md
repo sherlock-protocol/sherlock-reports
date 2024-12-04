@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Mento](https://www.mentolabs.xyz/)|October 2024    | [📎](audits/2024.10.31%20-%20Final%20-%20Mento%20x%20Good%24%20Integration%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
 [Allora Network](https://www.allora.network/)|July 2024    | [📎](audits/2024.07.19%20-%20Final%20-%20Allora%20Audit%20Report.pdf)  |   |[Lambda](https://twitter.com/None) |
 [Flayer](https://www.flayer.io/)|September 2024    | [📎](audits/2024.09.15%20-%20Final%20-%20Flayer%20Audit%20Report.pdf)  |   |[zzykxx](https://twitter.com/zzykxx) |
 [Zerolend](https://zerolend.xyz/)|September 2024    | [📎](audits/2024.09.10%20-%20Final%20-%20ZeroLend%20One%20%20Audit%20Report.pdf)  |   |[hyh](https://twitter.com/0xhyh) |
