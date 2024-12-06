@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Covalent](https://covalentnetwork.org)|October 2024    | [📎](audits/2024.10.29%20-%20Final%20-%20Covalent%20-%20EWM%20Light%20Client%20Audit%20Report.pdf)  |   |[PUSH0](https://twitter.com/PUSH0audits) |
 [Telcoin](https://www.telco.in)|November 2024    | [📎](audits/2024.11.09%20-%20Final%20-%20Telcoin%20Update%202%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
 [Superfluid](https://www.superfluid.finance/)|November 2024    | [📎](audits/2024.11.24%20-%20Final%20-%20Superfluid%20Locker%20System%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
 [Mento](https://www.mentolabs.xyz/)|October 2024    | [📎](audits/2024.10.31%20-%20Final%20-%20Mento%20x%20Good%24%20Integration%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
