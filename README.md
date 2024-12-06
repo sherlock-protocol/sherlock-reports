@@ -20,6 +20,8 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[AXION](https://x.com/AxionMoney)|October 2024    | [📎](audits/2024.10.15%20-%20Final%20-%20AXION%20Audit%20Report.pdf)  |   |[pkqs90](https://twitter.com/woshilalala) |
+[Hats Protocol](https://www.hatsprotocol.xyz/)|November 2024    | [📎](audits/2024.11.23%20-%20Final%20-%20HatsSignerGate%20v2%20Audit%20Report.pdf)  |   |[bughuntoor](https://twitter.com/None) |
 [Covalent](https://covalentnetwork.org)|October 2024    | [📎](audits/2024.10.29%20-%20Final%20-%20Covalent%20-%20EWM%20Light%20Client%20Audit%20Report.pdf)  |   |[PUSH0](https://twitter.com/PUSH0audits) |
 [Telcoin](https://www.telco.in)|November 2024    | [📎](audits/2024.11.09%20-%20Final%20-%20Telcoin%20Update%202%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
 [Superfluid](https://www.superfluid.finance/)|November 2024    | [📎](audits/2024.11.24%20-%20Final%20-%20Superfluid%20Locker%20System%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
