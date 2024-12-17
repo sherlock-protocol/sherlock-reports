@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[RuneMine](https://www.runemine.com/)|November 2024    | [📎](audits/2024.11.28%20-%20Final%20-%20RuneMine%20by%20Mine%20Labs%E2%80%99%20Audit%20Report.pdf)  |   |[cergyk](https://twitter.com/cergyk1337) |
 [Tally](https://www.tally.xyz/)|December 2024    | [📎](audits/2024.12.17%20-%20Final%20-%20Tally%20Collaborative%20Audit%20Report.pdf)  |   |[cergyk](https://github.com/CergyK), [Spearmint](https://github.com/0xspearmint), [Jokr](https://github.com/jokrsec) |
 [Resolv](https://www.resolv.im/)|December 2024    | [📎](audits/2024.12.02%20-%20Final%20-%20Resolv%20Core%20Audit%20Report.pdf)  |   |[bughuntoor](https://twitter.com/None) |
 [Ethos Network](https://www.ethos.network/)|November 2024    | [📎](audits/2024.11.02%20-%20Final%20-%20Ethos%20Network%20Social%20Contracts%20Audit%20Report.pdf)  |   |[pkqs90](https://twitter.com/woshilalala) |
