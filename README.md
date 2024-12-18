@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Extra Finance](https://app.extrafi.io/)|December 2024    | [📎](audits/2024.12.01%20-%20Final%20-%20Extra%20Finance%20Audit%20Report.pdf)  |   |[A2-security](https://twitter.com/A2Security) |
 [RuneMine](https://www.runemine.com/)|November 2024    | [📎](audits/2024.11.28%20-%20Final%20-%20RuneMine%20by%20Mine%20Labs%E2%80%99%20Audit%20Report.pdf)  |   |[cergyk](https://twitter.com/cergyk1337) |
 [Tally](https://www.tally.xyz/)|December 2024    | [📎](audits/2024.12.17%20-%20Final%20-%20Tally%20Collaborative%20Audit%20Report.pdf)  |   |[cergyk](https://github.com/CergyK), [Spearmint](https://github.com/0xspearmint), [Jokr](https://github.com/jokrsec) |
 [Resolv](https://www.resolv.im/)|December 2024    | [📎](audits/2024.12.02%20-%20Final%20-%20Resolv%20Core%20Audit%20Report.pdf)  |   |[bughuntoor](https://twitter.com/None) |
