@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Mach Finance](https://www.machfi.xyz/)|December 2024    | [📎](audits/2024.12.21%20-%20Final%20-%20Mach%20Finance%20Audit%20Report.pdf)  |   |[eeyore](https://twitter.com/@marcin_ugarenko) |
 [Rain](https://www.raincards.xyz)|December 2024    | [📎](audits/2024.12.08%20-%20Final%20-%20Rain%20-%20Collateral%20Contract%20V2%20Audit%20Report.pdf)  |   |[hash](https://twitter.com/10xhash) |
 [Nouns](https://nouns.wtf)|November 2024    | [📎](audits/2024.11.30%20-%20Final%20-%20Nouns%20DAO%20-%20Auction%20Streams%20Audit%20Report.pdf)  |   |[hyh](https://twitter.com/0xhyh) |
 [Extra Finance](https://app.extrafi.io/)|December 2024    | [📎](audits/2024.12.01%20-%20Final%20-%20Extra%20Finance%20Audit%20Report.pdf)  |   |[A2-security](https://twitter.com/A2Security) |
