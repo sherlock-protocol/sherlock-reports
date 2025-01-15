@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Debita Finance](https://debita.fi/)|November 2024    | [📎](audits/2024.11.25%20-%20Final%20-%20Debita%20Finance%20V3%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [Velar](https://www.velar.co/)|September 2024    | [📎](audits/2024.09.09%20-%20Final%20-%20Velar%20Artha%20PerpDEX%20Audit%20Report.pdf)  |   |[bughuntoor](https://twitter.com/None) |
 [Teller](https://teller.org)|December 2024    | [📎](audits/2024.12.10%20-%20Final%20-%20Teller%20Lender%20Groups%20Update%20Audit%20%20Audit%20Report.pdf)  |   |[hash](https://twitter.com/10xhash) |
 [Mach Finance](https://www.machfi.xyz/)|December 2024    | [📎](audits/2024.12.21%20-%20Final%20-%20Mach%20Finance%20Audit%20Report.pdf)  |   |[eeyore](https://twitter.com/@marcin_ugarenko) |
