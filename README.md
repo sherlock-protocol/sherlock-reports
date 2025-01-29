@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Oku](https://oku.trade)|December 2024    | [📎](audits/2024.12.09%20-%20Final%20-%20Oku%27s%20New%20Order%20Types%20Contract%20Contest%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [Idle Finance](https://idle.finance/)|December 2024    | [📎](audits/2024.12.21%20-%20Final%20-%20Idle%20Finance%20Credit%20Vaults%20Audit%20Report.pdf)  |   |[0x52](https://twitter.com/IAm0x52) |
 [Ethos Network](https://www.ethos.network/)|December 2024    | [📎](audits/2024.12.05%20-%20Final%20-%20Ethos%20Network%20Financial%20Contracts%20Audit%20Report.pdf)  |   |[bughuntoor](https://twitter.com/None) |
 [Debita Finance](https://debita.fi/)|November 2024    | [📎](audits/2024.11.25%20-%20Final%20-%20Debita%20Finance%20V3%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
