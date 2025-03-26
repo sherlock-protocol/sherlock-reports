@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[PinLink](https://pinlink.ai/)|March 2025    | [📎](audits/2025.03.14%20-%20Final%20-%20PinLink%3A%20RWA-Tokenized%20DePIN%20Marketplace%20Audit%20Report.pdf)  |   |[IllIllI](https://twitter.com/IllIllI000) |
 [Perennial](https://perennial.finance/)|January 2025    | [📎](audits/2025.01.31%20-%20Final%20-%20Perennial%20V2%20Update%204%20Audit%20Report.pdf)  |   |[panprog](https://twitter.com/panprog) |
 [Beraborrow](https://www.beraborrow.com/)|January 2025    | [📎](audits/2025.01.31%20-%20Final%20-%20Beraborrow%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
 [Oku](https://oku.trade)|December 2024    | [📎](audits/2024.12.09%20-%20Final%20-%20Oku%27s%20New%20Order%20Types%20Contract%20Contest%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
