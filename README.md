@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[native](https://native.org/)|May 2025    | [📎](audits/2025.05.29%20-%20Final%20-%20Native%20Smart%20Contract%20V2%20Audit%20Report.pdf)  |   |[hildingr](https://twitter.com/hildingrr) |
 [SYMMIO](https://symm.io/)|March 2025    | [📎](audits/2025.03.10%20-%20Final%20-%20Symmio%2C%20Staking%20and%20Vesting%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
 [Crestal Network](https://www.crestal.network/)|March 2025    | [📎](audits/2025.03.14%20-%20Final%20-%20Crestal%20Network%20Audit%20Report.pdf)  |   |[0x73696d616f](https://twitter.com/0xSimao) |
 [PinLink](https://pinlink.ai/)|March 2025    | [📎](audits/2025.03.14%20-%20Final%20-%20PinLink%3A%20RWA-Tokenized%20DePIN%20Marketplace%20Audit%20Report.pdf)  |   |[IllIllI](https://twitter.com/IllIllI000) |
