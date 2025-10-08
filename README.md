@@ -20,6 +20,7 @@ Sherlock is the first and only smart contract auditor to repay protocol teams wi
 
 | Protocol Team | Date | Audit Report | Coverage Agreement | Lead Senior Watson |
 |---------------|------|--------------|--------------------|--------------------|
+[Malda](https://malda.xyz/)|August 2025    | [📎](audits/2025.08.14%20-%20Final%20-%20Malda%20Audit%20Report.pdf)  |   |[cergyk](https://twitter.com/cergyk1337) |
 [Neutrl](https://www.neutrl.fi/)|August 2025    | [📎](audits/2025.08.24%20-%20Final%20-%20Neutrl%20Protocol%20Audit%20Report.pdf)  |   |[xiaoming90](https://twitter.com/xiaoming9090) |
 [Aegis](https://aegis.im/)|May 2025    | [📎](audits/2025.05.03%20-%20Final%20-%20Aegis.im%20YUSD%20Audit%20Report.pdf)  |   |[hildingr](https://twitter.com/hildingrr) |
 [native](https://native.org/)|May 2025    | [📎](audits/2025.05.29%20-%20Final%20-%20Native%20Smart%20Contract%20V2%20Audit%20Report.pdf)  |   |[hildingr](https://twitter.com/hildingrr) |
