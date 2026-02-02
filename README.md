@@ -1,4 +1,4 @@
-![auditarchives](https://user-images.githubusercontent.com/48841281/189038406-be97b3f3-4e2e-48c7-a434-3e06328820aa.png)
+<img width="1920" height="895" alt="sherlock audit archives " src="https://github.com/user-attachments/assets/430b9f27-9431-4582-b14c-64986a08f3ca" />
 
 <p align="center">
   Protocol team? Request an <a href="https://forms.gle/HgoVZzSVkKyfrprV9">audit</a>. <br> Auditor? Join a
